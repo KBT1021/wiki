@@ -1,4 +1,5 @@
 * [Home](Home)
+* [積ん読リスト](Books)
 * [研究アイデア](Research Idea)
 * [UTaTane](UTaTane)
 * [その他開発アイデア](Development Idea)
