@@ -7,8 +7,7 @@
 
 ## アイデア一覧
 
-
-* link 1
+* idea 1
 * link 2
 * link 3
 
