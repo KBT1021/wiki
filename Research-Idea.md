@@ -11,6 +11,7 @@
 <details><summary>アイデアの一覧をまとめたもの</summary><div>
 
 ああ
+</div></details>
 
 ###　眼球トラッキングを利用したシステム
 
