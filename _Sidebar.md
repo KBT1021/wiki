@@ -3,4 +3,5 @@
 * [UTaTane](UTaTane)
 * [その他開発アイデア](Development Idea)
 * [積ん読リスト](Books)
+* [読書メモ](Books Memo)
 * [ドラえもんの道具の批評](Doraemon Item)
