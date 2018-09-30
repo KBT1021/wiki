@@ -1,2 +1,2 @@
-* [Home] (Home)
-* [研究アイデア] (ResearchIdea)
+* [Home](Home)
+* [研究アイデア](ResearchIdea)
