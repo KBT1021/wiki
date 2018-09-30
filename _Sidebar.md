@@ -1,6 +1,6 @@
 * [Home](Home)
-* [積ん読リスト](Books)
-* [研究アイデア](Research Idea)
+* [研究アイデア・進捗状況](Research Idea)
 * [UTaTane](UTaTane)
 * [その他開発アイデア](Development Idea)
+* [積ん読リスト](Books)
 * [ドラえもんの道具の批評](Doraemon Item)
