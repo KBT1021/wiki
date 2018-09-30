@@ -2,3 +2,4 @@
 * [研究アイデア](Research Idea)
 * [UTaTane](UTaTane)
 * [その他開発アイデア](Development Idea)
+* [ドラえもんの道具の批評](Doraemon Item)
