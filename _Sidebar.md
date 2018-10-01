@@ -2,7 +2,7 @@
 * [研究アイデア・進捗状況](Research Idea)
 * [UTaTane](UTaTane)
 * [その他開発アイデア](Development Idea)
-* [考察メモ](Philosophia)
+* [Philosophia](Philosophia)
 * [積ん読リスト](Books)
 * [読書メモ](Books Memo)
 * [ドラえもんの道具の批評](Doraemon Item)
