@@ -8,7 +8,7 @@
 ##アイデアの出し方8原則
 
 <details>
-<summary>アイデアの出し方8原則</summary>
+  <summary>アイデアの出し方8原則</summary>
 <pre>
 <code>
 #### 1.「極論」のススメ
